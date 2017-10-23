@@ -32,7 +32,7 @@ body {margin:0;
 	padding: 30px;
 	border: 5px;
 	background-color:#E3F2FD;
-	font-size:20px;
+	
 	
 }
 
@@ -42,7 +42,7 @@ body {margin:0;
 	border:5 px;
 	font-weight:bold;
 	
-	font-size: 20px;
+	
 }
 
 .row:after {

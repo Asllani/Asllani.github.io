@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
 
-<!DOCTYPE html>
 
 
 <html>
@@ -173,7 +171,7 @@ color:black;}
 <br>
 <div class ="container">
 <ul class="pager">
-    <li class="next"><a href="file:///C:/Users/boraa/Desktop/cv/boracv1.html">Next</a></li>
+    <li class="next"><a href="https://github.com/Asllani/Asllani.github.io/blob/master/boracv1.html">Next</a></li>
     
   </ul>
 
@@ -184,7 +182,6 @@ color:black;}
 
 
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -233,7 +230,7 @@ font-family:italic;}
 	 </div>
 	 <div class ="container">
 <ul class="pager">
-    <li class="previous"><a href="file:///C:/Users/boraa/Desktop/cv/boracv.html">Previous</a></li>
+    <li class="previous"><a href="https://github.com/Asllani/Asllani.github.io/blob/master/boracv.html">Previous</a></li>
     
   </ul>
   

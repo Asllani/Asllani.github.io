@@ -144,7 +144,7 @@
       <li>PHP(gut)</li>
  	 <li>SQL(gut)</li>
  
- </ul>
+ 
  <br>
  	   
  	   
@@ -162,8 +162,7 @@
 	<br>
 	<br>
  	
- </div>
- </span>
+ 
  <br>
  <br>
  <br>

@@ -169,7 +169,7 @@
  <br>
  <div class ="container">
  <ul class="pager">
-     <li class="next"><a href="https://github.com/Asllani/Asllani.github.io/blob/master/boracv1.html.">Next</a></li>
+     <li class="next"><a href="boracv1.html.">Next</a></li>
      
    
  

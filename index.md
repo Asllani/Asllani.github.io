@@ -121,7 +121,7 @@ color:black;}
 	<li> Sami Frasheri <sub>Gymnasium in Tirana</sub></li>
 	<p><i class="fa fa-calendar "></i>   Sept 2009 - Jul 2012 </p><br>
 	<ul>Universität </ul>
-	<li> Fakultät für Natürwissenschaften<sub><a href="http://www.fshn.edu.al/"target="_blank"> Website </a></sub><sup>Studiengang -Informatik</sup></li>
+	<li> Fakultät für Natürwissenschaften<sub><a href="http://www.fshn.edu.al/"> Website </a></sub><sup>Studiengang -Informatik</sup></li>
 	<p><i class="fa fa-calendar "></i>  Okt 2012 - Jul 2017 </p>
 		
 		 
@@ -144,7 +144,6 @@ color:black;}
      <li>PHP(gut)</li>
 	 <li>SQL(gut)</li>
 
-</ul>
 <br>
 	   
 	   

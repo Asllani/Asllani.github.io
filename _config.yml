@@ -1,4 +1,4 @@
 theme: jekyll-theme-architect
 title: Bora's resume
 paginate: 2
-paginate_path:"/blog/page:num/"
+paginate_path:"/boracv1.html/page:2/"

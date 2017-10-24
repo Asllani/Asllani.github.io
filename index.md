@@ -92,7 +92,7 @@ color:black;}
 <hr>
  
 <p><i class=" fa fa-home " >  </i>   Durlacher Alle.4<br> 76131 Karlsruhe,Deutschland</p>
-          <p><i class="fa fa-envelope "></i>   bora.asllani@hotmail.com</p>
+          <p><i class="fa fa-envelope "></i>  bora.asllani@hotmail.com</p>
           <p><i class="fa fa-phone "></i>   01718227816</p>
 		  <br>
 		

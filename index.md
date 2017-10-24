@@ -169,7 +169,7 @@
  <br>
  <div class ="container">
  <ul class="pager">
-	 <li class="next"><a href="book.jpg">Next</a></li>
+	 <li class="next"><a href="boracv1.html">Next</a></li>
  	     <li class="previous"><a href="boracv.html"> Previous</a></li>
        
      

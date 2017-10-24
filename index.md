@@ -1,6 +1,3 @@
-
-
-
 <html>
 <head>
 <meta charset="UTF-8">
@@ -92,7 +89,7 @@ color:black;}
 <hr>
  
 <p><i class=" fa fa-home " >  </i>   Durlacher Alle.4<br> 76131 Karlsruhe,Deutschland</p>
-          <p><i class="fa fa-envelope "></i>  bora.asllani@hotmail.com</p>
+          <p><i class="fa fa-envelope "></i>   bora.asllani@hotmail.com</p>
           <p><i class="fa fa-phone "></i>   01718227816</p>
 		  <br>
 		
@@ -106,7 +103,8 @@ color:black;}
    <hr>  
    
   
-   
+   </span>
+	</div>	
 	
  <div class="column middle ">
  <h2><i class="fa fa-briefcase "></i>   Berufserfarung</h2><br>
@@ -121,7 +119,7 @@ color:black;}
 	<li> Sami Frasheri <sub>Gymnasium in Tirana</sub></li>
 	<p><i class="fa fa-calendar "></i>   Sept 2009 - Jul 2012 </p><br>
 	<ul>Universität </ul>
-	<li> Fakultät für Natürwissenschaften<sub><a href="http://www.fshn.edu.al/"> Website </a></sub><sup>Studiengang -Informatik</sup></li>
+	<li> Fakultät für Natürwissenschaften<sub><a href="http://www.fshn.edu.al/"target="_blank"> Website </a></sub><sup>Studiengang -Informatik</sup></li>
 	<p><i class="fa fa-calendar "></i>  Okt 2012 - Jul 2017 </p>
 		
 		 
@@ -143,7 +141,8 @@ color:black;}
      <li>Hypertext Markup Language (HTML)(sehr gut)</li>
      <li>PHP(gut)</li>
 	 <li>SQL(gut)</li>
-	</ul>
+
+</ul>
 <br>
 	   
 	   
@@ -161,20 +160,19 @@ color:black;}
 	<br>
 	<br>
 	
-
+</div>
+</span>
 <br>
 <br>
 <br>
 <br>
 <div class ="container">
 <ul class="pager">
-    <li class="next"><a href="https://github.com/Asllani/Asllani.github.io/blob/master/boracv1.html">Next</a></li>
+    <li class="next"><a href=https://github.com/Asllani/Asllani.github.io/commits/master/boracv1.html"">Next</a></li>
     
   </ul>
 
 </div>
-
-
 
 
 

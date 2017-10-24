@@ -143,7 +143,7 @@ color:black;}
      <li>Hypertext Markup Language (HTML)(sehr gut)</li>
      <li>PHP(gut)</li>
 	 <li>SQL(gut)</li>
-
+	</ul>
 <br>
 	   
 	   

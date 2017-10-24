@@ -106,8 +106,7 @@ color:black;}
    <hr>  
    
   
-   </span>
-	</div>	
+   
 	
  <div class="column middle ">
  <h2><i class="fa fa-briefcase "></i>   Berufserfarung</h2><br>

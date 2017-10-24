@@ -14,7 +14,7 @@
  
  
  <style>
- html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", serif}
+ html,body,h1,h2,h3 {font-family: "Roboto", serif}
  body {margin:0;
        border:5px;
  }
@@ -32,7 +32,7 @@
  	padding: 30px;
  	border: 5px;
  	background-color:#E3F2FD;
-	font-size:20px;
+	
  	
  }
  
@@ -42,7 +42,7 @@
  	border:5 px;
  	font-weight:bold;
  	
- 	font-size: 20px;
+ 	
  }
  
  .row:after {
@@ -144,7 +144,7 @@
       <li>PHP(gut)</li>
  	 <li>SQL(gut)</li>
  
- 
+ </ul>
  <br>
  	   
  	   
@@ -171,7 +171,7 @@
  <ul class="pager">
      <li class="next"><a href="https://github.com/Asllani/Asllani.github.io/blob/master/boracv1.html">Next</a></li>
      
-   </ul>
+   
  
  </div>
  

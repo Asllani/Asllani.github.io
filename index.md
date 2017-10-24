@@ -169,5 +169,5 @@
  <br>
  <div class ="container">
  <ul class="pager">
-     <li class="next"><a href="book.jpg>Next</a></li>
+     <li class="next"><a href="book.jpg">Next</a></li>
 	     
